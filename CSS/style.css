@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400;1,600&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+
+@import url("Components/container.css");
+@import url("Components/Avatar.css");
+@import url("Components/Button.css");
+@import url("Components/Banner.css");
+@import url("Components/Card.css");
+
+body {
+  font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: normal;
+  margin: 0px;
+
+}
+h1, h2, h3 {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+a {
+	text-decoration: none;
+}
